@@ -12,7 +12,7 @@ body,
 }
 
 body {
-    width: 55%;
+    width: 60%;
     margin: 0 auto;
     background-color: #fff;
     padding: 20px;
@@ -22,11 +22,25 @@ td,
 th {
     padding: 15px;
     border: 1px solid #93af51;
+    font-family: 'Work Sans', sans-serif;
+}
+
+th {
+    color: #fff;
+    background-color: #93af51;
 }
 
 table {
     border: 2px solid #93af51;
     width: 100%;
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+}
+
+h2 {
+    font-family: 'Suez One', serif;
 }
 
 h1,
@@ -37,6 +51,7 @@ h2 {
 td code {
     color: #fff;
     background-color: #93af51;
+    padding: 5px;
 }
 
 
