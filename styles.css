@@ -1,5 +1,7 @@
 html {
     box-sizing: border-box;
+    background-image: url(./images/pattern.png);
+    background-size: cover;
     margin: auto;
 }
 
@@ -8,4 +10,34 @@ body,
 *:after {
     box-sizing: inherit;
 }
+
+body {
+    width: 55%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+}
+
+td,
+th {
+    padding: 15px;
+    border: 1px solid #93af51;
+}
+
+table {
+    border: 2px solid #93af51;
+    width: 100%;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+td code {
+    color: #fff;
+    background-color: #93af51;
+}
+
+
 
