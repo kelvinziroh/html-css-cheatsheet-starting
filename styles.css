@@ -1,2 +1,11 @@
+html {
+    box-sizing: border-box;
+    margin: auto;
+}
 
+body,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
 
